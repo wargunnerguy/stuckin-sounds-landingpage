@@ -1,0 +1,10 @@
+// Bootstrap variable overrides
+$primary: #8b5cf6; // violet accent
+$body-bg: #0b0b0c;
+$body-color: #e9e9ea;
+
+@import "bootstrap/scss/bootstrap";
+
+// Utilities
+.section { padding-block: 4rem; }
+.card { border-radius: 1rem; }
