@@ -1,0 +1,47 @@
+/* Global theme tokens for dark UI */
+:root,
+:root[data-bs-theme="dark"]{
+  /* brand */
+  --bs-primary: #8b7dff;
+
+  /* text & body */
+  --bs-body-bg: #0b0c10;
+  --bs-body-color: #e7e9ee;
+  --bs-secondary-color: #b6bac4;
+  --bs-link-color: #c7bdff;
+  --bs-link-hover-color: #e0dbff;
+
+  /* borders & surfaces */
+  --bs-border-color: #222531;
+  --bs-secondary-bg: #0f1117;  /* section bg */
+  --bs-tertiary-bg: #151823;   /* card/list/form bg */
+
+  /* component variables */
+  --bs-card-bg: var(--bs-tertiary-bg);
+  --bs-card-border-color: var(--bs-border-color);
+  --bs-list-group-bg: var(--bs-tertiary-bg);
+  --bs-list-group-border-color: var(--bs-border-color);
+  --bs-dropdown-bg: var(--bs-tertiary-bg);
+  --bs-modal-bg: var(--bs-tertiary-bg);
+  --bs-offcanvas-bg: var(--bs-tertiary-bg);
+
+  /* forms */
+  --bs-form-control-bg: #0f1117;
+  --bs-form-control-color: var(--bs-body-color);
+  --bs-form-control-border-color: var(--bs-border-color);
+  --bs-input-bg: var(--bs-form-control-bg); /* older BS aliases */
+}
+
+/* Optional: make bg-body-tertiary truly “card-like” */
+.bg-body-tertiary{ background-color: var(--bs-tertiary-bg) !important; }
+
+/* Better outline button contrast on dark */
+.btn-outline-secondary{
+  --bs-btn-color: var(--bs-secondary-color);
+  --bs-btn-border-color: var(--bs-border-color);
+  --bs-btn-hover-bg: var(--bs-secondary-bg);
+  --bs-btn-hover-border-color: var(--bs-border-color);
+}
+
+/* Minor polish */
+.navbar-brand{ letter-spacing:.3px }

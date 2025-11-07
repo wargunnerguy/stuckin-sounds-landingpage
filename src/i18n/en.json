@@ -1,0 +1,56 @@
+{
+  "brand": { "name": "Stuckin Sounds" },
+  "nav": { "services": "Services", "gear": "Gear", "rates": "Rates", "contact": "Contact", "book": "Book a session" },
+
+  "landing": {
+    "hero": {
+      "title": "Record. Mix. Release.",
+      "subtitle": "Boutique music studio for artists, podcasters, and creators.",
+      "ctaBook": "Book a session",
+      "ctaServices": "Our services",
+      "preview": "Studio preview"
+    },
+    "services": {
+      "title": "Services",
+      "recTitle": "Recording",
+      "recDesc": "Vocal booths & live room with clean signal chain.",
+      "mixTitle": "Mixing",
+      "mixDesc": "Hybrid workflow, recallable projects, radio-ready sound.",
+      "mastTitle": "Mastering",
+      "mastDesc": "Streaming-safe loudness & competitive tone.",
+      "podTitle": "Podcast",
+      "podDesc": "4-mic setup, monitoring, remote guests, quick turnaround."
+    },
+    "gear": {
+      "title": "Selected Gear",
+      "l1": "Large-diaphragm condenser & dynamic mics",
+      "l2": "Transparent preamps & 24-bit/96kHz interface",
+      "l3": "Analog comps/EQ + in-the-box staples",
+      "r1": "Acoustically treated control & live rooms",
+      "r2": "Nearfield monitors + sub",
+      "r3": "Instrument backline on request"
+    },
+    "rates": {
+      "title": "Rates",
+      "recTitle": "Recording",
+      "mixTitle": "Mixing",
+      "mastTitle": "Mastering",
+      "perHour": "/hr",
+      "perSong": "/song",
+      "note": "Project pricing available."
+    },
+    "contact": {
+      "title": "Contact",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send"
+    }
+  },
+
+
+
+"footer": { "copy": "© {year} Stuckin Sounds" },
+
+  "meta": { "home": "Stuckin Sounds — Recording & Mixing Studio" }
+}

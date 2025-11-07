@@ -1,0 +1,54 @@
+{
+  "brand": { "name": "Stuckin Sounds" },
+  "nav": { "services": "Teenused", "gear": "Tehnika", "rates": "Hinnad", "contact": "Kontakt", "book": "Broneeri aeg" },
+
+  "landing": {
+    "hero": {
+      "title": "Salvesta. Miksi. Avalda.",
+      "subtitle": "Butiikstuudio artistidele, podcasteritele ja loojatele.",
+      "ctaBook": "Broneeri sessioon",
+      "ctaServices": "Meie teenused",
+      "preview": "Stuudio eelvaade"
+    },
+    "services": {
+      "title": "Teenused",
+      "recTitle": "Salvestus",
+      "recDesc": "Vokaalikabiinid ja live-ruum puhta signaaliahelaga.",
+      "mixTitle": "Miksimine",
+      "mixDesc": "Hübriidtöövoog, taastatav töö, raadiokõlbulik kõla.",
+      "mastTitle": "Master",
+      "mastDesc": "Voogedastuseks sobiv valjus ja konkurentsivõimeline toon.",
+      "podTitle": "Podcast",
+      "podDesc": "4 mikri seade, monitooring, kaugkülalised, kiire teostus."
+    },
+    "gear": {
+      "title": "Valik tehnikat",
+      "l1": "Suure membraaniga kondensaator- ja dünaamilised mikrid",
+      "l2": "Läbipaistvad eelvõimud ja 24-bit/96 kHz liides",
+      "l3": "Analoogkompressorid/EQ + põhipluginad",
+      "r1": "Akustiliselt töödeldud kontroll- ja live-ruumid",
+      "r2": "Nearfield monitorid + sub",
+      "r3": "Instrumenditagavara kokkuleppel"
+    },
+    "rates": {
+      "title": "Hinnad",
+      "recTitle": "Salvestus",
+      "mixTitle": "Miksimine",
+      "mastTitle": "Master",
+      "perHour": "/h",
+      "perSong": "/lugu",
+      "note": "Projektipõhine hinnastus kokkuleppel."
+    },
+    "contact": {
+      "title": "Kontakt",
+      "name": "Nimi",
+      "email": "E-post",
+      "message": "Sõnum",
+      "send": "Saada"
+    }
+  },
+
+  "footer": { "copy": "© {year} Stuckin Sounds" },
+
+  "meta": { "home": "Stuckin Sounds — Salvestus ja miksimine" }
+}
